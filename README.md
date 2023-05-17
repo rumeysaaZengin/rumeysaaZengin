@@ -1,5 +1,4 @@
-### Hi there 👋
-
+<!-- ### Hi there 👋 
 
 **rumeysaaZengin/rumeysaaZengin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,11 +11,11 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... -->
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=rumeysaaZengin&show_icons=true&bg_color=00000000)  -->
 
-# Merhaba, Dünya! 👋
+# Merhaba, 👋
 
 Ben rumeysa zengin, bir front-end geliştiriciyim ve GitHub hesabımı paylaşmaktan mutluluk duyuyorum. Burada projelerimi geliştirirken kullandığım teknolojileri, becerilerimi ve deneyimlerimi paylaşıyorum. İşte benimle ilgili biraz daha fazla bilgi:
 
