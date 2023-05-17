@@ -16,34 +16,37 @@ Here are some ideas to get you started:
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=rumeysaaZengin&show_icons=true&bg_color=00000000)  -->
 
-# Hoş Geldiniz!
+# Merhaba, Dünya! 👋
 
-Merhaba! Benim adım [Adınız] ve bu GitHub hesabım. Burada [Alanınız veya İlgi Alanlarınız] konularında çalışmalarımı paylaşıyorum. Aşağıda, benimle ilgili daha fazla bilgi edinebilir ve projelerime göz atabilirsiniz.
+Ben rumeysa zengin, bir front-end geliştiriciyim ve GitHub hesabımı paylaşmaktan mutluluk duyuyorum. Burada projelerimi geliştirirken kullandığım teknolojileri, becerilerimi ve deneyimlerimi paylaşıyorum. İşte benimle ilgili biraz daha fazla bilgi:
 
-## Hakkımda
+## Teknolojik Yetkinlikler
 
-[İş veya Eğitim Geçmişi]
+- HTML
+- CSS
+- JavaScript
+- React
+- Vue.js
+- Bootstrap
+- Sass
+- Git
 
-[Teknolojik Yetkinlikleriniz veya İlgi Alanlarınız]
+## İlgi Alanları
 
-## Projeler
+- Web arayüzü tasarımı ve geliştirme
+- Kullanıcı deneyimi (UX) tasarımı
+- Responsive tasarım
+- Verimli ve temiz kod yazma
 
-Aşağıda, üzerinde çalıştığım veya tamamladığım bazı projelerden birkaçını bulabilirsiniz:
-
-- [Proje 1](proje1_link): Proje açıklaması ve kullanılan teknolojiler.
-- [Proje 2](proje2_link): Proje açıklaması ve kullanılan teknolojiler.
-- [Proje 3](proje3_link): Proje açıklaması ve kullanılan teknolojiler.
-
-Projelerime daha detaylı bir göz atmak için [GitHub hesabım](github_hesap_linki) üzerinden ulaşabilirsiniz.
 
 ## İletişim
 
-Eğer projelerim veya çalışmalarım hakkında herhangi bir sorunuz, geri bildiriminiz veya işbirliği teklifiniz varsa, aşağıdaki yollarla bana ulaşabilirsiniz:
+Eğer projelerim veya işbirliği teklifleriniz hakkında herhangi bir sorunuz veya geri bildiriminiz varsa, aşağıdaki yollarla benimle iletişime geçebilirsiniz:
 
-- E-posta: [E-posta Adresi](mailto:email@example.com)
+- E-posta: [E-posta Adresi](rumeysazengin999@gmail.com)
 - LinkedIn: [LinkedIn Profili](linkedin_profil_linki)
 
-Bana her zaman ulaşabilirsiniz ve size yardımcı olmaktan mutluluk duyarım.
 
-Teşekkür ederim!
+
+
 
