@@ -43,7 +43,8 @@ Ben rumeysa zengin, bir front-end geliştiriciyim ve GitHub hesabımı paylaşma
 Eğer projelerim veya işbirliği teklifleriniz hakkında herhangi bir sorunuz veya geri bildiriminiz varsa, aşağıdaki yollarla benimle iletişime geçebilirsiniz:
 
 - E-posta: rumeysazengin999@gmail.com
-- LinkedIn: [LinkedIn Profili](linkedin_profil_linki)
+- LinkedIn: www.linkedin.com/in/rumeysazengin0
+
 
 
 
