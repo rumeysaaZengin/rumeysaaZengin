@@ -46,7 +46,7 @@ Eğer projelerim veya işbirliği teklifleriniz hakkında herhangi bir sorunuz v
 - LinkedIn: www.linkedin.com/in/rumeysazengin0
 
 
-
+![Github stats 1](https://github-readme-stats.vercel.app/api?username=rumeysaaZengin&show_icons=true&theme=gradient)
 
 
 
