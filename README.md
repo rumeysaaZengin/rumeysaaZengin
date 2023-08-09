@@ -45,7 +45,6 @@ Eğer projelerim veya işbirliği teklifleriniz hakkında herhangi bir sorunuz v
 - E-posta: rumeysazengin999@gmail.com
 - LinkedIn: www.linkedin.com/in/rumeysazengin0
 
-  <img src="https://camo.githubusercontent.com/be3c092691c04d6a02a834e49734fc1d393dcfbe250685beca404bbf761349a5/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d5a6172696e612d32303232267374796c653d666c61742d73717561726526636f6c6f723d626c7565" alt="" data-canonical-src="https://komarev.com/ghpvc/?username=Zarina-2022&amp;style=flat-square&amp;color=blue" style="max-width: 100%;">
 
 
 
