@@ -20,6 +20,7 @@ Ben rumeysa zengin, bir front-end geliştiriciyim ve GitHub hesabımı paylaşma
 - Kullanıcı deneyimi (UX) tasarımı
 - Responsive tasarım
 - Verimli ve temiz kod yazma
+- Bireysel ve takım çalışmaları yapma
 
 
 ## İletişim
