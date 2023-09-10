@@ -45,6 +45,8 @@ Eğer projelerim veya işbirliği teklifleriniz hakkında herhangi bir sorunuz v
 - E-posta: rumeysazengin999@gmail.com
 - LinkedIn: www.linkedin.com/in/rumeysazengin0
 
+<img src="https://camo.githubusercontent.com/77de9b75c6dc28e74def5b70a2f455797b99fb4e256bdaaf8bea4c39b7373ed7/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d632c6370702c63732c6a6176612c70792c6373732c68746d6c2c6a732c706870" data-canonical-src="https://skillicons.dev/icons?i=c,cpp,cs,java,py,css,html,js,php" style="max-width: 100%;">
+
 
 
 
