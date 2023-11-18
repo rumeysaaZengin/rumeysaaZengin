@@ -3,7 +3,7 @@
 # Merhaba, 👋
 
 Ben rumeysa zengin, bir front-end geliştiriciyim ve GitHub hesabımı paylaşmaktan mutluluk duyuyorum. Burada projelerimi geliştirirken kullandığım teknolojileri, becerilerimi ve deneyimlerimi paylaşıyorum. İşte benimle ilgili biraz daha fazla bilgi:
-
+<hr>
 ## Teknolojik Yetkinlikler
 
 - HTML
